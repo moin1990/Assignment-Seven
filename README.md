@@ -12,7 +12,6 @@ KeenKeeper is a relationship management app that helps you stay in touch with th
 - **React Router DOM v6** — client-side routing
 - **Tailwind CSS v3** — utility-first styling
 - **Recharts** — pie chart on the Stats page
-- **Lucide React** — icon library
 - **Vite** — fast dev server & bundler
 
 ## Features
